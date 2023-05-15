@@ -1,0 +1,32 @@
+.flexForItem {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    flex-wrap: wrap;
+}
+
+.furniture__image {
+    width: 700px;
+    height: 520px;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+}
+
+.p {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.span {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.furniture__info {
+    width: 600px;
+    font-weight: 500;
+    font-size: 18px;
+
+}

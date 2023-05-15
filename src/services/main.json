@@ -1,0 +1,1689 @@
+{
+	"all": [
+		{
+			"titleForChapter": "Кутові дивани",
+			"products": [
+				{
+					"id": "1",
+					"titleForElement": "Сіон - диван кутовий",
+					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/sion.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "2",
+					"titleForElement": "Лорд - диван кутовий",
+					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/lord.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "3",
+					"titleForElement": "Сіетл - диван кутовий",
+					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/sietl.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "4",
+					"titleForElement": "Глобус - диван кутовий",
+					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/globus.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "5",
+					"titleForElement": "Токіо - диван кутовий",
+					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/tokio.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "6",
+					"titleForElement": "Олімп - диван кутовий",
+					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/olimp.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "7",
+					"titleForElement": "Челсі - диван кутовий",
+					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/chelsi.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "8",
+					"titleForElement": "Бруклін - диван кутовий",
+					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/bruklin.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "9",
+					"titleForElement": "Магелан - диван кутовий",
+					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/magelan.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "10",
+					"titleForElement": "Прайм - диван кутовий",
+					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/prime.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				}
+			]
+		},
+		{
+			"titleForChapter": "Прямі дивани",
+			"products": [
+				{
+					"id": "11",
+					"titleForElement": "Вест - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/west.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "12",
+					"titleForElement": "Сіетл - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/sietl.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "13",
+					"titleForElement": "Глобус - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/globus.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "14",
+					"titleForElement": "Лорд - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/lord.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "15",
+					"titleForElement": "Олімп - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/olimp.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "16",
+					"titleForElement": "Токіо - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/tokio.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "17",
+					"titleForElement": "Токіо 2 - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/tokio_2.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "18",
+					"titleForElement": "Ромб - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/romb.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "19",
+					"titleForElement": "Ромб 2 - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/romb_2.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "20",
+					"titleForElement": "Оксфорд - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/oksford.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "21",
+					"titleForElement": "Техас - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/texas.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "22",
+					"titleForElement": "Ніка - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/nika.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "23",
+					"titleForElement": "Глорія - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/gloria.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "24",
+					"titleForElement": "Ретро - диван прямий(дерево)",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/retro.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "25",
+					"titleForElement": "Гольф - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/golf.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "26",
+					"titleForElement": "Лагуна#1 - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/laguna_1.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "27",
+					"titleForElement": "Лагуна#3 - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/laguna_3.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "28",
+					"titleForElement": "Лагуна#4 - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/laguna_4.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "28",
+					"titleForElement": "Лагуна#5 - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/laguna_5.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "30",
+					"titleForElement": "Лагуна#6 - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/laguna_6.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "31",
+					"titleForElement": "Лагуна#7 - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/laguna_7.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "34",
+					"titleForElement": "Лагуна#8 - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/laguna_8.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "35",
+					"titleForElement": "Фіджи - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/fidgy.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "36",
+					"titleForElement": "Сідней - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/sidney.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "37",
+					"titleForElement": "Ніаполь - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/neapol.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "38",
+					"titleForElement": "Гранд - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/grand.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "39",
+					"titleForElement": "Бостон - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/boston.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "40",
+					"titleForElement": "Ріко - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/riko.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "41",
+					"titleForElement": "Гавана - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/gavana.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "42",
+					"titleForElement": "Роял - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/royal.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "43",
+					"titleForElement": "Престиж - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/prestige.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "44",
+					"titleForElement": "Мілана + крісло мілана",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/milana_ta_krislo.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "45",
+					"titleForElement": "Магелан - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/magelan.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "46",
+					"titleForElement": "Прайм - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/prime.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "47",
+					"titleForElement": "Релакс - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/relax.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "48",
+					"titleForElement": "Честер - диван прямий",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/chester.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "49",
+					"titleForElement": "Пуф",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/puf.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "50",
+					"titleForElement": "Банкетка",
+					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/banketka.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				}
+			]
+		},
+		{
+			"titleForChapter": "Дитячі",
+			"products": [
+				{
+					"id": "51",
+					"titleForElement": "Панда та Томас дитячий",
+					"mainUrl": "/assets/images/yuryivMebli/dityachiDivani/panda-ta-tomas.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "52",
+					"titleForElement": "Гном - диван дитячий",
+					"mainUrl": "/assets/images/yuryivMebli/dityachiDivani/gnomr.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "53",
+					"titleForElement": "Гном (кант) - диван дитячий",
+					"mainUrl": "/assets/images/yuryivMebli/dityachiDivani/gnomk.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "54",
+					"titleForElement": "Гном 2 (кант) - диван (смішарик)",
+					"mainUrl": "/assets/images/yuryivMebli/dityachiDivani/gnom2.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "55",
+					"titleForElement": "Гном 3 (розшитий)",
+					"mainUrl": "/assets/images/yuryivMebli/dityachiDivani/gnom3.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "56",
+					"titleForElement": "Гном 4",
+					"mainUrl": "/assets/images/yuryivMebli/dityachiDivani/gnom4.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "57",
+					"titleForElement": "Смішарик - диван дитячий",
+					"mainUrl": "/assets/images/yuryivMebli/dityachiDivani/smisharik.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				}
+			]
+		},
+		{
+			"titleForChapter": "Ліжка м'які",
+			"products": [
+				{
+					"id": "58",
+					"titleForElement": "Ліжко Київ",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Kuiv.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "59",
+					"titleForElement": "Ліжко Хвиля",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Xvulia.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "60",
+					"titleForElement": "Ліжко Адель (заокруглене)",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Adel.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "61",
+					"titleForElement": "Ліжко Адель 2 (квадратне)",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Adel2.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "62",
+					"titleForElement": "Ліжко Классік",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Clasic.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "63",
+					"titleForElement": "Ліжко Марсель",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/marsel.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "64",
+					"titleForElement": "Ліжко Жасмін",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Jasmin.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "65",
+					"titleForElement": "Ліжко Скарлет",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Skarlet.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "66",
+					"titleForElement": "Ліжко Беатріс",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Beatris.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "67",
+					"titleForElement": "Ліжко Ольвія",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Olvia.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "68",
+					"titleForElement": "Ліжко Клеопатра",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/cleopatra.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "69",
+					"titleForElement": "Ліжко Крістал",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Kristal.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "70",
+					"titleForElement": "Мірель ліжко ",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/mirel.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "71",
+					"titleForElement": "Ліжко Марсель ",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/marsel+matrac.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "72",
+					"titleForElement": "Ліжко Атланта ",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Atlanta.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "73",
+					"titleForElement": "Мішель ліжко ",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/mishel.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "74",
+					"titleForElement": "Ліжко Ніка Нью",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/nika_new.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "75",
+					"titleForElement": "Афіна дитяче ліжко",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/afina_dit.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "76",
+					"titleForElement": "Каміла дитяче ліжко",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/kamila_dit.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "77",
+					"titleForElement": "Дитяче ліжко Соня",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/sonya_dit.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "78",
+					"titleForElement": "Ліжко Остін",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/ostin.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "79",
+					"titleForElement": "Ліжко Остін ",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/ostin+matrac.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "80",
+					"titleForElement": "Ліжко Флоренція",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/florencia.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "81",
+					"titleForElement": "Ліжко Флоренція ",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/florencia+matrac.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "82",
+					"titleForElement": "Ліжко Монро ",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/monro.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				}
+			]
+		},
+		{
+			"titleForChapter": "Дерев'яні ліжка",
+			"products": [
+				{
+					"id": "87",
+					"titleForElement": "Хвиля - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/hvilya2.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "88",
+					"titleForElement": "Премʼєра - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/premiera.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "89",
+					"titleForElement": "Верона - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/verona.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "90",
+					"titleForElement": "Далас - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/dalas.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "91",
+					"titleForElement": "Прага - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/praga.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "92",
+					"titleForElement": "Мальта - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/malta.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "93",
+					"titleForElement": "Монако - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/monako.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "94",
+					"titleForElement": "Вена - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/vena.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "95",
+					"titleForElement": "Дублін - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/dublin.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "96",
+					"titleForElement": "Пекін - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/pekin.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "97",
+					"titleForElement": "Сакура - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/sakura.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "98",
+					"titleForElement": "Стамбул - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/stambul.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "98",
+					"titleForElement": "Еріка ліжко 2-х ярусне деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/erika.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "100",
+					"titleForElement": "Бай бай ліжко 2-х ярусне деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/beybey.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "101",
+					"titleForElement": "Засоня ліжко 2-х ярусне деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/zasonya.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "102",
+					"titleForElement": "Хвиля дитяча - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/hvylia_dit.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "103",
+					"titleForElement": "Каріна - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/karina.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "104",
+					"titleForElement": "Соня - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/sonya.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "105",
+					"titleForElement": "Хвиля Нова - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/hvylia.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "106",
+					"titleForElement": "Нота - ліжко деревʼяне",
+					"mainUrl": "/assets/images/yuryivMebli/ligkaDerevyani/nota.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				}
+			]
+		},
+		{
+			"titleForChapter": "Кухонні куточки",
+			"products": [
+				{
+					"id": "107",
+					"titleForElement": "Модерн - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/modern.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "108",
+					"titleForElement": "Престиж - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/prestige.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "109",
+					"titleForElement": "Комфорт - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/komfort.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "110",
+					"titleForElement": "Колізей - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/kolizey.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "111",
+					"titleForElement": "Колізей 2 - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/kolizey2.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "112",
+					"titleForElement": "Аполон - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/apolon.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "113",
+					"titleForElement": "Аполон 2 - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/apolon-2-.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "114",
+					"titleForElement": "Хай-тек - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/hitech1.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "115",
+					"titleForElement": "Кубік - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/kubik_1.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "116",
+					"titleForElement": "Стиль - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/style_1.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "117",
+					"titleForElement": "Орфей - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/orfey.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "118",
+					"titleForElement": "Антей - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/antey.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "119",
+					"titleForElement": "Марсель - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/marsel.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "120",
+					"titleForElement": "Зодіак - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/zodiak-kubik.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "121",
+					"titleForElement": "Грація - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/gracia-gracia2.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "122",
+					"titleForElement": "Лондон - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/london.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "123",
+					"titleForElement": "Фаворит - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/favorit.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "124",
+					"titleForElement": "Соната - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/sonata.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "125",
+					"titleForElement": "Сіріус - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/sirius.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "126",
+					"titleForElement": "Кардинал - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/kardinal.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "127",
+					"titleForElement": "Мадрид - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/madrid.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "128",
+					"titleForElement": "Елвіс - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/elvis.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "129",
+					"titleForElement": "Омега - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/omega.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "130",
+					"titleForElement": "Кубік - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/kubik-kogzam.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "131",
+					"titleForElement": "Консул - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/konsul.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "132",
+					"titleForElement": "Бріз - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/briz.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "133",
+					"titleForElement": "Лорд - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/london.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "134",
+					"titleForElement": "Оскар - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/oskar.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "135",
+					"titleForElement": "Етюд - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/etud.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "136",
+					"titleForElement": "Сенатор - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/senator.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "137",
+					"titleForElement": "Барон - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/baron.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				},
+				{
+					"id": "138",
+					"titleForElement": "Оазис - кухонний куточок",
+					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/oasis.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Юр'їв меблі"
+				}
+			]
+		},
+		{
+			"titleForChapter": "Шафи-купе",
+			"products": [
+				{
+					"id": "139",
+					"titleForElement": "Шафи-Купе «Стандарт»",
+					"mainUrl": "/assets/images/shafiKupe/standart.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": ""
+				},
+				{
+					"id": "140",
+					"titleForElement": "Шафи-Купе «Alto»",
+					"mainUrl": "/assets/images/shafiKupe/Alto.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": ""
+				},
+				{
+					"id": "141",
+					"titleForElement": "Шафи-Купе «Доміно»",
+					"mainUrl": "/assets/images/shafiKupe/domino.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": ""
+				},
+				{
+					"id": "142",
+					"titleForElement": "Шафи-Купе Білий WT, «Рим-Венеціано»",
+					"mainUrl": "/assets/images/shafiKupe/rim_veneciano.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": ""
+				},
+				{
+					"id": "143",
+					"titleForElement": "Шафи-Купе «Альфа»",
+					"mainUrl": "/assets/images/shafiKupe/Alfa.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": ""
+				},
+				{
+					"id": "144",
+					"titleForElement": "Шафи-Купе «Омега»",
+					"mainUrl": "/assets/images/shafiKupe/Omega.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": ""
+				},
+				{
+					"id": "145",
+					"titleForElement": "Шафи-Купе «Loft»",
+					"mainUrl": "/assets/images/shafiKupe/Loft.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": ""
+				}
+			]
+		},
+		{
+			"titleForChapter": "Комоди",
+			"products": [
+				{
+					"id": "146",
+					"titleForElement": "К-2 Ретро",
+					"mainUrl": "/assets/images/pehotin/komodi/k-2-Retro.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "147",
+					"titleForElement": "К-4+1 Ретро",
+					"mainUrl": "/assets/images/pehotin/komodi/K-41-Retro.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "148",
+					"titleForElement": "К-2",
+					"mainUrl": "/assets/images/pehotin/komodi/K-2-beton.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "149",
+					"titleForElement": "К-2+4 «Мілана»",
+					"mainUrl": "/assets/images/pehotin/komodi/K-24-Milana.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "150",
+					"titleForElement": "К-3",
+					"mainUrl": "/assets/images/pehotin/komodi/K-3-beton.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "151",
+					"titleForElement": "К-3 МДФ",
+					"mainUrl": "/assets/images/pehotin/komodi/xK-3-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "152",
+					"titleForElement": "К-3+1 Ретро",
+					"mainUrl": "/assets/images/pehotin/komodi/K-31-Retro.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "153",
+					"titleForElement": "К-3+2",
+					"mainUrl": "/assets/images/pehotin/komodi/K-32.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "154",
+					"titleForElement": "К-3+2 ЕКО",
+					"mainUrl": "/assets/images/pehotin/komodi/K-32-EKO.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "155",
+					"titleForElement": "К-3+2 МДФ",
+					"mainUrl": "/assets/images/pehotin/komodi/K-32-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "156",
+					"titleForElement": "К-3+2 Ретро",
+					"mainUrl": "/assets/images/pehotin/komodi/K-32-Retro.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "157",
+					"titleForElement": "К-3+3",
+					"mainUrl": "/assets/images/pehotin/komodi/K-33.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "158",
+					"titleForElement": "К-3+5",
+					"mainUrl": "/assets/images/pehotin/komodi/K-35.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "159",
+					"titleForElement": "К-4",
+					"mainUrl": "/assets/images/pehotin/komodi/K-4.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "160",
+					"titleForElement": "К-4 «Моніка»",
+					"mainUrl": "/assets/images/pehotin/komodi/K-4-Monika.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "161",
+					"titleForElement": "К-4 ЕКО",
+					"mainUrl": "/assets/images/pehotin/komodi/K-4-EKO.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "162",
+					"titleForElement": "К-4+1",
+					"mainUrl": "/assets/images/pehotin/komodi/K-41.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "163",
+					"titleForElement": "К-4+1 ЕКО",
+					"mainUrl": "/assets/images/pehotin/komodi/K-41-EKO.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "164",
+					"titleForElement": "К-4+1 МДФ",
+					"mainUrl": "/assets/images/pehotin/komodi/K-41-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "165",
+					"titleForElement": "К-4+2",
+					"mainUrl": "/assets/images/pehotin/komodi/K-42.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "166",
+					"titleForElement": "К-4+2 ЕКО",
+					"mainUrl": "/assets/images/pehotin/komodi/K-42-EKO.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "167",
+					"titleForElement": "К-4+2 МДФ",
+					"mainUrl": "/assets/images/pehotin/komodi/K-42-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "168",
+					"titleForElement": "К-5",
+					"mainUrl": "/assets/images/pehotin/komodi/K-5.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "169",
+					"titleForElement": "К-5 ЕКО",
+					"mainUrl": "/assets/images/pehotin/komodi/K-5-EKO.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "170",
+					"titleForElement": "К-5 МДФ",
+					"mainUrl": "/assets/images/pehotin/komodi/K-5-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "171",
+					"titleForElement": "К-5+1 «Ангеліна МДФ»",
+					"mainUrl": "/assets/images/pehotin/komodi/K-51-Angelina-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "172",
+					"titleForElement": "К-600 МДФ",
+					"mainUrl": "/assets/images/pehotin/komodi/K-600-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "173",
+					"titleForElement": "К-800 МДФ",
+					"mainUrl": "/assets/images/pehotin/komodi/K-800-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "174",
+					"titleForElement": "КО",
+					"mainUrl": "/assets/images/pehotin/komodi/KO-beton.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "175",
+					"titleForElement": "К-4 МДФ",
+					"mainUrl": "/assets/images/pehotin/komodi/K-4-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				}
+			]
+		},
+		{
+			"titleForChapter": "Передпокії",
+			"products": [
+				{
+					"id": "176",
+					"titleForElement": "Бригантина",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Brigantina.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "177",
+					"titleForElement": "Галеон",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Galeon.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "178",
+					"titleForElement": "Алегро Кутова",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Alegro.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "179",
+					"titleForElement": "Альпіна",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Alpina.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "180",
+					"titleForElement": "Афіна МДФ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Afina.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "181",
+					"titleForElement": "Бриз МДФ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Briz.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "182",
+					"titleForElement": "Вернісаж",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Vernisazh.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "183",
+					"titleForElement": "Вернісаж-Вішалка",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Vernisazh-Vishalka-beton.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "184",
+					"titleForElement": "Вернісаж-ШГ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Vernisazh-ShG-beton.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "187",
+					"titleForElement": "Візит МДФ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Vizit-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "188",
+					"titleForElement": "Віола",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Viola.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "189",
+					"titleForElement": "Вояж",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Voyazh.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "190",
+					"titleForElement": "Гамма МДФ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Gamma-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "191",
+					"titleForElement": "Грація",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Graciya.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "192",
+					"titleForElement": "Грація-Вішалка",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Graciya-Vishalka-beton.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "193",
+					"titleForElement": "Грація-ШГ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Graciya-ShG-beton.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "194",
+					"titleForElement": "Дебют",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Debjut.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "195",
+					"titleForElement": "Експрес",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Ekspres.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "196",
+					"titleForElement": "Івона",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Ivona.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "197",
+					"titleForElement": "Івона-Вішалка",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Ivona-Vishalka-beton.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "198",
+					"titleForElement": "Івона-ШГ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Ivona-ShG-beton.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "199",
+					"titleForElement": "Комфорт МДФ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Komfort-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "200",
+					"titleForElement": "Медея",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Medeya.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "201",
+					"titleForElement": "Модерн",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Modern.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "202",
+					"titleForElement": "Прем’єра",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Premiera.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "203",
+					"titleForElement": "Прем’єра МДФ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Premiera-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "204",
+					"titleForElement": "Рандеву",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Randevu.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "205",
+					"titleForElement": "Риф",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Rif.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "206",
+					"titleForElement": "Роксі МДФ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Roksi-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "207",
+					"titleForElement": "Смарт",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Smart.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "208",
+					"titleForElement": "Тріумф МДФ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Triumf-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "209",
+					"titleForElement": "Уют МДФ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Ujut-MDF.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "210",
+					"titleForElement": "Уют-Вішалка МДФ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Ujut-Vishalka-MDF-sonoma.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "211",
+					"titleForElement": "Уют-ШГ МДФ",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Ujut-shG-MDF-sonoma.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "212",
+					"titleForElement": "Фієста",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Fiiesta.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				},
+				{
+					"id": "213",
+					"titleForElement": "Фрегат",
+					"mainUrl": "/assets/images/pehotin/peredpokoi/Fregat.jpg",
+					"description": "",
+					"additionalphotosURLs": [],
+					"producer": "Пехотін"
+				}
+			]
+		}
+	]
+}

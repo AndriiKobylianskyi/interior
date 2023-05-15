@@ -1,0 +1,37 @@
+.a {
+    margin-top: 17px;
+    color: #C0C0C0;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.a:hover {
+    color: #F0F0F0;
+
+}
+
+.footer__social {
+    width: 160px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer__social_item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 4px 0;
+    width: 32px;
+    height: 32px;
+    background-color: #F0F0F0;
+
+    border-radius: 100%;
+}
+
+.span {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #F0F0F0;
+}

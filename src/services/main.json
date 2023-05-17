@@ -8,7 +8,13 @@
 					"titleForElement": "Сіон - диван кутовий",
 					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/sion.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/kutoviDivani/sion.jpg",
+						"/assets/images/yuryivMebli/kutoviDivani/sion_1.jpg",
+						"/assets/images/yuryivMebli/kutoviDivani/sion_2.jpg",
+						"/assets/images/yuryivMebli/kutoviDivani/sion_3.jpg",
+						"/assets/images/yuryivMebli/kutoviDivani/sion_4.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -56,7 +62,10 @@
 					"titleForElement": "Челсі - диван кутовий",
 					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/chelsi.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/kutoviDivani/chelsi.jpg",
+						"/assets/images/yuryivMebli/kutoviDivani/chelsi_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -64,7 +73,10 @@
 					"titleForElement": "Бруклін - диван кутовий",
 					"mainUrl": "/assets/images/yuryivMebli/kutoviDivani/bruklin.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/kutoviDivani/bruklin.jpg",
+						"/assets/images/yuryivMebli/kutoviDivani/bruklin_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -93,7 +105,11 @@
 					"titleForElement": "Вест - диван прямий",
 					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/west.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/pryamiDivani/west.jpg",
+						"/assets/images/yuryivMebli/pryamiDivani/west_1.jpg",
+						"/assets/images/yuryivMebli/pryamiDivani/west_2.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -325,7 +341,14 @@
 					"titleForElement": "Роял - диван прямий",
 					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/royal.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/pryamiDivani/royal.jpg",
+						"/assets/images/yuryivMebli/pryamiDivani/royal_1.jpg",
+						"/assets/images/yuryivMebli/pryamiDivani/royal_2.jpg",
+						"/assets/images/yuryivMebli/pryamiDivani/royal_3.jpg",
+						"/assets/images/yuryivMebli/pryamiDivani/royal_4.jpg",
+						"/assets/images/yuryivMebli/pryamiDivani/royal_5.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -349,7 +372,13 @@
 					"titleForElement": "Магелан - диван прямий",
 					"mainUrl": "/assets/images/yuryivMebli/pryamiDivani/magelan.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/pryamiDivani/magelan.jpg",
+						"/assets/images/yuryivMebli/pryamiDivani/magelan_1.jpg",
+						"/assets/images/yuryivMebli/pryamiDivani/magelan_2.jpg",
+						"/assets/images/yuryivMebli/pryamiDivani/magelan_3.jpg",
+						"/assets/images/yuryivMebli/pryamiDivani/magelan_4.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -471,7 +500,10 @@
 					"titleForElement": "Ліжко Хвиля",
 					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Xvulia.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/ligkaMyaki/Xvulia.jpg",
+						"/assets/images/yuryivMebli/ligkaMyaki/Xvulia_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -487,7 +519,10 @@
 					"titleForElement": "Ліжко Адель 2 (квадратне)",
 					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Adel2.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/ligkaMyaki/Adel2.jpg",
+						"/assets/images/yuryivMebli/ligkaMyaki/Adel2_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -495,7 +530,10 @@
 					"titleForElement": "Ліжко Классік",
 					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Clasic.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/ligkaMyaki/Clasic.jpg",
+						"/assets/images/yuryivMebli/ligkaMyaki/Clasic_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -511,7 +549,10 @@
 					"titleForElement": "Ліжко Жасмін",
 					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Jasmin.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/ligkaMyaki/Jasmin.jpg",
+						"/assets/images/yuryivMebli/ligkaMyaki/Jasmin_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -519,7 +560,10 @@
 					"titleForElement": "Ліжко Скарлет",
 					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Skarlet.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/ligkaMyaki/Skarlet.jpg",
+						"/assets/images/yuryivMebli/ligkaMyaki/Skarlet_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -527,7 +571,10 @@
 					"titleForElement": "Ліжко Беатріс",
 					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Beatris.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/ligkaMyaki/Beatris.jpg",
+						"/assets/images/yuryivMebli/ligkaMyaki/Beatris_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -535,7 +582,10 @@
 					"titleForElement": "Ліжко Ольвія",
 					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Olvia.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/ligkaMyaki/Olvia.jpg",
+						"/assets/images/yuryivMebli/ligkaMyaki/Olvia_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -551,7 +601,10 @@
 					"titleForElement": "Ліжко Крістал",
 					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Kristal.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/ligkaMyaki/Kristal.jpg",
+						"/assets/images/yuryivMebli/ligkaMyaki/Kristal_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -559,7 +612,11 @@
 					"titleForElement": "Мірель ліжко ",
 					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/mirel.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/ligkaMyaki/mirel.jpg",
+						"/assets/images/yuryivMebli/ligkaMyaki/mirel_1.jpg",
+						"/assets/images/yuryivMebli/ligkaMyaki/mirel_2.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -575,7 +632,10 @@
 					"titleForElement": "Ліжко Атланта ",
 					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/Atlanta.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/ligkaMyaki/Atlanta.jpg",
+						"/assets/images/yuryivMebli/ligkaMyaki/Atlanta_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -599,7 +659,10 @@
 					"titleForElement": "Афіна дитяче ліжко",
 					"mainUrl": "/assets/images/yuryivMebli/ligkaMyaki/afina_dit.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/ligkaMyaki/afina_dit.jpg",
+						"/assets/images/yuryivMebli/ligkaMyaki/afina_dit_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -1025,7 +1088,10 @@
 					"titleForElement": "Консул - кухонний куточок",
 					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/konsul.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/kuhonnikutochki/konsul.jpg",
+						"/assets/images/yuryivMebli/kuhonnikutochki/konsul_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -1033,7 +1099,12 @@
 					"titleForElement": "Бріз - кухонний куточок",
 					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/briz.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/kuhonnikutochki/briz.jpg",
+						"/assets/images/yuryivMebli/kuhonnikutochki/briz_1.jpg",
+						"/assets/images/yuryivMebli/kuhonnikutochki/briz_2.jpg",
+						"/assets/images/yuryivMebli/kuhonnikutochki/briz_3.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -1049,7 +1120,10 @@
 					"titleForElement": "Оскар - кухонний куточок",
 					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/oskar.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/kuhonnikutochki/oskar.jpg",
+						"/assets/images/yuryivMebli/kuhonnikutochki/oskar_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -1057,7 +1131,10 @@
 					"titleForElement": "Етюд - кухонний куточок",
 					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/etud.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/kuhonnikutochki/etud.jpg",
+						"/assets/images/yuryivMebli/kuhonnikutochki/etud_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -1065,7 +1142,10 @@
 					"titleForElement": "Сенатор - кухонний куточок",
 					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/senator.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/kuhonnikutochki/senator.jpg",
+						"/assets/images/yuryivMebli/kuhonnikutochki/senator_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				},
 				{
@@ -1081,7 +1161,10 @@
 					"titleForElement": "Оазис - кухонний куточок",
 					"mainUrl": "/assets/images/yuryivMebli/kuhonnikutochki/oasis.jpg",
 					"description": "",
-					"additionalphotosURLs": [],
+					"additionalphotosURLs": [
+						"/assets/images/yuryivMebli/kuhonnikutochki/oasis.jpg",
+						"/assets/images/yuryivMebli/kuhonnikutochki/oasis_1.jpg"
+					],
 					"producer": "Юр'їв меблі"
 				}
 			]

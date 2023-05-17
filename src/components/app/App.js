@@ -1,15 +1,21 @@
 import Header from "../header/Header";
 import Footer from "../footer/Footer";
 import FurnitureList from "../furniture-list/Furniture-list";
-
 import FunrnitureListItem from "../furniture-list-item/Furniture-list-item";
 import AboutUsAndContacts from "../aboutUsandContacts/AboutUsAndContacts";
 import Delivery from "../delivery/Delivery";
+import Slider from "../slider/Slider";
+
+
+import data from '../../services/main.json'
 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 
 const App = () => {
+
+
     return (
+
         <Router>
             <header className="header">
                 <Header />

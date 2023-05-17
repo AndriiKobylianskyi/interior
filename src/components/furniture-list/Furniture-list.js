@@ -277,7 +277,7 @@ const FurnitureList = () => {
 
 
 
-            <div className={'flex-container ' + styles.containerForFurnitures}>
+            <div className='flex-container'>
                 {items}
 
 

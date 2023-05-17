@@ -1,5 +1,5 @@
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { NavLink } from 'react-router-dom'
 
 import notFoundImage from '../../assets/images/imageNotFound.png'
@@ -26,8 +26,7 @@ import { Link } from 'react-router-dom';
 const FurnitureList = () => {
     let [classShow, setClassNames] = useState(styles.dropDownContainer)
     let [filteredArray, setfilteredArray] = useState(data.all[0].products)
-
-
+    let [searchValue, setSearchValue] = useState('')
 
     const toggleClass = () => {
         if (classShow === styles.dropDownContainer) {
@@ -38,71 +37,81 @@ const FurnitureList = () => {
     }
 
 
+
+
+
+
     const idAndTitleFilter = (value) => {
 
         if (value == '' || value == 0) {
-            setfilteredArray(data.all[0].products)
+            setfilteredArray(() => data.all[0].products)
         }
         else if (isNaN(+value)) {
             let emptyarr = []
             data.all.forEach(item => emptyarr.push(item.products))
             let newArr = []
             emptyarr.filter(item => item.forEach(item => {
-                if (item.titleForElement.toLowerCase().includes(value.toLowerCase())) {
+                if (item.titleForElement.toLowerCase().trim().startsWith(value.toLowerCase().trim())) {
                     newArr.push(item)
                 }
 
-                setfilteredArray(newArr)
+
+                setfilteredArray(() => newArr)
             }))
         } else {
             let id = value
             let emptyarr = []
             data.all.forEach(item => emptyarr.push(item.products))
             let requiredItem = emptyarr.map(item => item.filter(item => item.id == id)).filter(item => item.length > 0)[0]
-            setfilteredArray(requiredItem)
+            setfilteredArray(() => requiredItem)
 
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 
+    useEffect(() => {
+        const Debounce = setTimeout(() => {
+            idAndTitleFilter(searchValue)
+        }, 300)
+        return () => clearTimeout(Debounce)
+    }, [searchValue])
+
     const categoryFilter = (status) => {
-        toggleClass()
-        if (status === 'Кутові дивани') {
-            setfilteredArray(data.all[0].products)
-        } else if (status === 'Прямі дивани') {
-            setfilteredArray(data.all[1].products)
-        } else if (status === 'Дитячі') {
-            setfilteredArray(data.all[2].products)
-        }
-        else if (status === 'Ліжка м`які') {
-            setfilteredArray(data.all[3].products)
-        } else if (status === 'Ліжка дерев`яні') {
-            setfilteredArray(data.all[4].products)
-        } else if (status === 'Кухонні куточки') {
-            setfilteredArray(data.all[5].products)
-        } else if (status === 'Матраци') {
-            // setfilteredArray(data.all[6].products)
-        } else if (status === 'Шафи-купе') {
-            setfilteredArray(data.all[6].products)
-        } else if (status === 'Комоди') {
-            setfilteredArray(data.all[7].products)
-        } else if (status === 'Передпокій') {
-            setfilteredArray(data.all[8].products)
-        }
+        const Debounce = setTimeout(() => {
+            toggleClass()
+            if (status === 'Кутові дивани') {
+                setfilteredArray(() => data.all[0].products)
+                document.getElementById('searchValue').value = ""
+            } else if (status === 'Прямі дивани') {
+                setfilteredArray(() => data.all[1].products)
+                document.getElementById('searchValue').value = ""
+            } else if (status === 'Дитячі') {
+                setfilteredArray(() => data.all[2].products)
+                document.getElementById('searchValue').value = ""
+            }
+            else if (status === 'Ліжка м`які') {
+                setfilteredArray(() => data.all[3].products)
+                document.getElementById('searchValue').value = ""
+            } else if (status === 'Ліжка дерев`яні') {
+                setfilteredArray(() => data.all[4].products)
+                document.getElementById('searchValue').value = ""
+            } else if (status === 'Кухонні куточки') {
+                setfilteredArray(() => data.all[5].products)
+                document.getElementById('searchValue').value = ""
+            } else if (status === 'Матраци') {
+                // setfilteredArray(data.all[6].products)
+            } else if (status === 'Шафи-купе') {
+                setfilteredArray(() => data.all[6].products)
+                document.getElementById('searchValue').value = ""
+            } else if (status === 'Комоди') {
+                setfilteredArray(() => data.all[7].products)
+                document.getElementById('searchValue').value = ""
+            } else if (status === 'Передпокій') {
+                setfilteredArray(() => data.all[8].products)
+                document.getElementById('searchValue').value = ""
+            }
+        }, 100)
+        return () => clearTimeout(Debounce)
 
     }
 
@@ -167,7 +176,8 @@ const FurnitureList = () => {
                 type="text"
                 className={styles.inputSearch}
                 placeholder="Введіть код або назву товару"
-                onChange={(e) => idAndTitleFilter(e.target.value)}
+                id="searchValue"
+                onChange={(e) => setSearchValue(e.target.value)}
             />
 
             <div className={classShow}>

@@ -7,11 +7,12 @@
 }
 
 .furniture__image {
-    width: 700px;
-    height: 520px;
     background-size: cover;
     object-fit: cover;
     background-position: center;
+    width: 710px;
+    height: 520px;
+
 }
 
 .p {
@@ -25,8 +26,17 @@
 }
 
 .furniture__info {
-    width: 600px;
+    width: 590px;
     font-weight: 500;
     font-size: 18px;
 
+}
+
+.dopStyleForImg {
+    width: 600px;
+    height: 670px;
+}
+
+.dopStyleForDescription {
+    width: 690px;
 }

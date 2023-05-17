@@ -22,7 +22,6 @@
     display: inline-block;
     position: absolute;
     z-index: 999;
-    top: 0px;
     left: 230px;
     height: 60px;
     width: 330px;
@@ -103,10 +102,7 @@
 
 
 
-.containerForFurnitures {
-    padding-top: 20px;
-    padding-bottom: 30px;
-}
+
 
 .furniture {
 
@@ -156,7 +152,7 @@
     margin: 5px 0 2px 5px;
     text-align: center;
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 700;
 
 }

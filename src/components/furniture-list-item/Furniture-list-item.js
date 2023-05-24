@@ -1,4 +1,5 @@
 import Slider from '../slider/Slider'
+import ImageComponent from '../imageComponent/ImageComponent'
 
 import { useState, useEffect } from 'react'
 import { useHref } from 'react-router-dom'
@@ -21,21 +22,22 @@ const FunrnitureListItem = (props) => {
 
 
 
-    // useEffect(() => {
-    //     if (mainUrl == '/assets/images/shafiKupe/domino.jpg' || mainUrl == '/assets/images/shafiKupe/Alfa.jpg' || mainUrl == '/assets/images/shafiKupe/Omega.jpg' || mainUrl == '/assets/images/shafiKupe/Loft.jpg') {
-    //         setClassForMainImg(styles.furniture__image + ' ' + styles.dopStyleForImg)
-    //         setClassForDescription(styles.furniture__info + ' ' + styles.dopStyleForDescription)
-    //     }
-    // })
+
 
     let items
     if (additionalphotosURLs.length > 1) {
         items = <Slider additionalphotosURLs={additionalphotosURLs} />
     } else {
-        items = <img src={process.env.PUBLIC_URL + mainUrl} className={classForMainImg} />
+        items = <ImageComponent mainUrl={mainUrl} />
     }
 
 
+    let producerElement
+    if (!producer) {
+        producerElement = null
+    } else {
+        producerElement = < p className={styles.p} > <span className={styles.span}> Виробник: </span> {producer}</ p>
+    }
 
 
 
@@ -49,7 +51,7 @@ const FunrnitureListItem = (props) => {
                 <div className={classForDescription}>
                     <p className={styles.p}> <span className={styles.span}> Назва товару: </span> {titleForElement}</p>
                     <p className={styles.p}><span className={styles.span}> Код товару: </span> {id}</p>
-                    <p className={styles.p}><span className={styles.span}> Виробник: </span> {producer}</p>
+                    {producerElement}
                     <p>{description}</p>
 
 

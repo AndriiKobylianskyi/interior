@@ -20,15 +20,16 @@ const Header = () => {
                 <a href="https://www.instagram.com/interior.mebli/?igshid=YmMyMTA2M2Y%3D" className={styles.header__social_item}>
                     <img src={instagram} alt="instagramImg" />
                 </a>
+                <a href="https://www.facebook.com/groups/interior.biz.ua" className={styles.header__social_item}>
+                    <img src={facebook} alt="FaceBookImg" />
+                </a>
                 <a href="viber://chat?number=%2B380638121363" className={styles.header__social_item}>
                     <img src={viber} alt="ViberImg" />
                 </a>
                 <a href="https://t.me/Mebli_INTERIOR" className={styles.header__social_item}>
                     <img src={telegram} alt="TelegramImg" />
                 </a>
-                <a href="https://www.facebook.com/groups/interior.biz.ua" className={styles.header__social_item}>
-                    <img src={facebook} alt="FaceBookImg" />
-                </a>
+
 
 
             </div>

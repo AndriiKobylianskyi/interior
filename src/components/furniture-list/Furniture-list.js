@@ -24,9 +24,13 @@ import { Link } from 'react-router-dom';
 
 
 const FurnitureList = () => {
+
+
+
     let [classShow, setClassNames] = useState(styles.dropDownContainer)
-    let [filteredArray, setfilteredArray] = useState(data.all[0].products)
+    let [filteredArray, setfilteredArray] = useState(JSON.parse(localStorage.getItem('currentState')) ? JSON.parse(localStorage.getItem('currentState')) : data.all[0].products)
     let [searchValue, setSearchValue] = useState('')
+
 
     const toggleClass = () => {
         if (classShow === styles.dropDownContainer) {
@@ -36,6 +40,17 @@ const FurnitureList = () => {
         }
     }
 
+    useEffect(() => {
+        if (localStorage.getItem('check')) {
+            setClassNames(styles.dropDownContainer + ' ' + styles.show)
+        }
+
+        const Debounce = setTimeout(() => {
+            idAndTitleFilter(searchValue)
+        }, 300)
+        return () => clearTimeout(Debounce)
+    }, [searchValue])
+
 
 
 
@@ -44,7 +59,7 @@ const FurnitureList = () => {
     const idAndTitleFilter = (value) => {
 
         if (value == '' || value == 0) {
-            setfilteredArray(() => data.all[0].products)
+            setfilteredArray(JSON.parse(localStorage.getItem('currentState')) ? JSON.parse(localStorage.getItem('currentState')) : data.all[0].products)
         }
         else if (isNaN(+value)) {
             let emptyarr = []
@@ -69,12 +84,7 @@ const FurnitureList = () => {
 
     }
 
-    useEffect(() => {
-        const Debounce = setTimeout(() => {
-            idAndTitleFilter(searchValue)
-        }, 300)
-        return () => clearTimeout(Debounce)
-    }, [searchValue])
+
 
     const categoryFilter = (status) => {
         const Debounce = setTimeout(() => {
@@ -92,6 +102,7 @@ const FurnitureList = () => {
             else if (status === 'Ліжка м`які') {
                 setfilteredArray(() => data.all[3].products)
                 document.getElementById('searchValue').value = ""
+
             } else if (status === 'Ліжка дерев`яні') {
                 setfilteredArray(() => data.all[4].products)
                 document.getElementById('searchValue').value = ""
@@ -115,6 +126,12 @@ const FurnitureList = () => {
 
     }
 
+    function storageMoves() {
+        localStorage.clear()
+        localStorage.setItem('check', 1)
+        localStorage.setItem('currentState', JSON.stringify(filteredArray))
+    }
+
     function renderItems(arr) {
         if (!arr) {
             return
@@ -136,6 +153,9 @@ const FurnitureList = () => {
                 <Link to={`/furnitureList/${id}`}
                     className={styles.furniture + ' ' + styles.hover}
                     style={{ textDecoration: 'none' }}
+                    onClick={storageMoves}
+
+
                 >
                     <img src={process.env.PUBLIC_URL + mainUrl} alt="картинка" className={styles.furniture__img} />
                     <p className={styles.furniture__name}> {titleForElement}</p>
@@ -181,6 +201,10 @@ const FurnitureList = () => {
             />
 
             <div className={classShow}>
+                <div data-close className={styles.modal__close}
+                    onClick={toggleClass}
+                > &times;</div>
+
 
                 <NavLink
                     style={{ 'textDecoration': 'none' }}

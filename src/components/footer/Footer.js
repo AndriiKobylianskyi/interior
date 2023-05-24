@@ -15,6 +15,9 @@ const Footer = () => {
                 <a href="https://www.instagram.com/interior.mebli/?igshid=YmMyMTA2M2Y%3D" className={styles.footer__social_item}>
                     <img src={instagram} alt="instagramImg" />
                 </a>
+                <a href="https://www.facebook.com/groups/interior.biz.ua" className={styles.footer__social_item}>
+                    <img src={facebook} alt="FaceBookImg" />
+                </a>
                 <a href="viber://chat?number=%2B380638121363" className={styles.footer__social_item}>
                     <img src={viber} alt="viberImg" />
                 </a>
@@ -23,9 +26,7 @@ const Footer = () => {
                 <a href="https://t.me/Mebli_INTERIOR" className={styles.footer__social_item}>
                     <img src={telegram} alt="telegramImg" />
                 </a>
-                <a href="https://www.facebook.com/groups/interior.biz.ua" className={styles.footer__social_item}>
-                    <img src={facebook} alt="FaceBookImg" />
-                </a>
+
             </div>
 
             <span className={styles.span}>м. Фастів <br />вул. Небесної Сотні 4</span>

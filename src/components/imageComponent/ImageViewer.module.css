@@ -1,0 +1,55 @@
+/* .furniture__image {
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    width: 710px;
+    height: 520px;
+    cursor: pointer;
+
+} */
+
+.imageViewer {
+    position: relative;
+    background-color: black;
+
+}
+
+.imageViewer img {
+    cursor: pointer;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    width: 710px;
+    height: 520px;
+    cursor: pointer;
+}
+
+
+.fullscreen img {
+    position: fixed;
+    top: 10px;
+    left: 0;
+    width: 95%;
+    height: 95%;
+    object-fit: contain;
+    z-index: 9999;
+    cursor: zoom-out;
+}
+
+.closeButton {
+    position: fixed;
+    top: 20px;
+    right: 360px;
+    background-color: #222121;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    cursor: pointer;
+    z-index: 9999;
+}

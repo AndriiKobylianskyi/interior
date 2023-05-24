@@ -1,5 +1,5 @@
 import Slider from '../slider/Slider'
-import ImageComponent from '../imageComponent/ImageComponent'
+import ImageViewer from '../imageComponent/ImageViewer'
 
 import { useState, useEffect } from 'react'
 import { useHref } from 'react-router-dom'
@@ -28,7 +28,7 @@ const FunrnitureListItem = (props) => {
     if (additionalphotosURLs.length > 1) {
         items = <Slider additionalphotosURLs={additionalphotosURLs} />
     } else {
-        items = <ImageComponent mainUrl={mainUrl} />
+        items = <ImageViewer mainUrl={mainUrl} />
     }
 
 

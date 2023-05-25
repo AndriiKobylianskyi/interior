@@ -49,14 +49,33 @@ const FurnitureList = () => {
             idAndTitleFilter(searchValue)
         }, 300)
         return () => clearTimeout(Debounce)
+
+
+
+
     }, [searchValue])
 
+    useEffect(() => {
+        const handleBeforeUnload = (event) => {
+            localStorage.clear()
+            event.preventDefault();
+            event.returnValue = '';
+        };
+
+        window.addEventListener('beforeunload', handleBeforeUnload);
+
+        return () => {
+            window.removeEventListener('beforeunload', handleBeforeUnload);
+        };
+    }, []);
 
 
 
 
 
     const idAndTitleFilter = (value) => {
+
+
 
         if (value == '' || value == 0) {
             setfilteredArray(JSON.parse(localStorage.getItem('currentState')) ? JSON.parse(localStorage.getItem('currentState')) : data.all[0].products)

@@ -74,8 +74,6 @@ const FurnitureList = () => {
 
     const idAndTitleFilter = (value) => {
 
-
-
         if (value == '' || value == 0) {
             setfilteredArray(JSON.parse(localStorage.getItem('currentState')) ? JSON.parse(localStorage.getItem('currentState')) : data.all[0].products)
         }
@@ -186,6 +184,7 @@ const FurnitureList = () => {
 
         return items
     }
+
 
     const items = renderItems(filteredArray)
 

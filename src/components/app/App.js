@@ -29,9 +29,6 @@ const App = () => {
                     <Route path="/delivery" element={<Delivery />} />
                     <Route path="/aboutUsAndContacts" element={<AboutUsAndContacts />} />
                     <Route path="/" element={<FurnitureList />} />
-
-
-
                 </Routes >
             </main>
             <footer className="footer">

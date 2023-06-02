@@ -13,11 +13,11 @@ const ImageViewer = ({ mainUrl }) => {
       <img src={process.env.PUBLIC_URL + mainUrl}
         alt="Image" className={styles.image}
         onClick={toggleFullscreen} />
-      {isFullscreen && (
+      {/* {isFullscreen && (
         <button className={styles.closeButton} onClick={toggleFullscreen}>
           &#10006;
         </button>
-      )}
+      )} */}
     </div>
   );
 };

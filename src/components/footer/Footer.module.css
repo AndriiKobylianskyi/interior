@@ -35,3 +35,13 @@
     font-weight: 500;
     color: #F0F0F0;
 }
+
+@media (max-width: 900px) {
+    .span {
+        display: none;
+    }
+
+    .a {
+        display: none;
+    }
+}

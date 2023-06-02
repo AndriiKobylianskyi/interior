@@ -20,3 +20,51 @@
     color: #F0F0F0;
 
 }
+
+
+
+@media (max-width: 900px) {
+
+
+    .content {
+        width: 800px;
+    }
+
+    .flex-container {
+
+        justify-content: space-around;
+
+    }
+}
+
+
+
+@media (max-width: 500px) {
+    .aboutUs__content {
+        width: 420px;
+    }
+
+
+
+
+}
+
+@media (max-width: 450px) {
+    .aboutUs__content {
+        width: 400px;
+    }
+
+
+
+
+}
+
+@media (max-width: 400px) {
+    .aboutUs__content {
+        width: 350px;
+    }
+
+
+
+
+}

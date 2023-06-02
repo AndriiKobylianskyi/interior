@@ -108,3 +108,203 @@
     top: 45%;
     left: 5%;
 }
+
+@media (max-width: 1340px) {
+
+
+    .content {
+        width: 992px;
+    }
+
+    .header {
+        height: 150px;
+    }
+
+
+    .nextButtonBIG,
+    .previousButtonBIG {
+        width: 150px;
+        height: 70px;
+
+    }
+
+    .closeButton {
+
+        top: 10px;
+        right: 10px;
+
+    }
+}
+
+
+
+@media (max-width: 992px) {
+
+
+    .nextButtonBIG,
+    .previousButtonBIG {
+        width: 100px;
+        height: 50px;
+
+    }
+
+
+}
+
+@media (max-width: 890px) {
+
+    .nextButtonBIG,
+    .previousButtonBIG {
+        width: 80px;
+        height: 50px;
+
+    }
+
+
+}
+
+
+
+
+@media (max-width: 768px) {
+
+    .nextButtonBIG,
+    .previousButtonBIG {
+        width: 40px;
+        height: 32px;
+
+    }
+
+
+
+
+
+    .slider {
+        position: relative;
+        width: 710px;
+    }
+
+    .mainImage {
+
+        width: 710px;
+        height: 520px;
+
+    }
+}
+
+@media (max-width: 710px) {
+
+
+
+    .slider {
+        position: relative;
+        width: 640px;
+    }
+
+    .mainImage {
+
+        width: 640px;
+        height: 520px;
+
+    }
+}
+
+
+@media (max-width: 640px) {
+
+
+
+    .slider {
+
+        width: 576px;
+    }
+
+    .mainImage {
+
+        width: 576px;
+        height: 480px;
+
+    }
+
+
+}
+
+@media (max-width: 576px) {
+
+
+
+
+    .slider {
+
+        width: 500px;
+    }
+
+    .mainImage {
+
+        width: 500px;
+        height: 420px;
+
+    }
+
+}
+
+@media (max-width: 500px) {
+
+
+
+    .slider {
+
+        width: 420px;
+    }
+
+    .mainImage {
+
+        width: 420px;
+        height: 360px;
+
+    }
+
+
+}
+
+@media (max-width: 460px) {
+
+
+
+    .slider {
+
+        width: 410px;
+    }
+
+    .mainImage {
+
+        width: 410px;
+        height: 330px;
+
+    }
+
+
+
+
+}
+
+@media (max-width: 420px) {
+
+
+
+    .slider {
+
+        width: 340px;
+    }
+
+    .mainImage {
+
+        width: 340px;
+        height: 310px;
+
+    }
+
+
+
+
+}

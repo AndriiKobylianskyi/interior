@@ -167,7 +167,7 @@ const FurnitureList = () => {
 
             return (
                 <Link to={`/furnitureList/${id}`}
-                    className={styles.furniture + ' ' + styles.hover}
+                    className={styles.furniture}
                     style={{ textDecoration: 'none' }}
                     onClick={storageMoves}
 
@@ -209,6 +209,8 @@ const FurnitureList = () => {
                 Весь каталог
             </button>
 
+            <br />
+
             <input
                 type="text"
                 className={styles.inputSearch}
@@ -216,6 +218,7 @@ const FurnitureList = () => {
                 id="searchValue"
                 onChange={(e) => setSearchValue(e.target.value)}
             />
+
 
             <div className={classShow}>
                 <div data-close className={styles.modal__close}
@@ -225,7 +228,6 @@ const FurnitureList = () => {
 
                 <NavLink
                     style={{ 'textDecoration': 'none' }}
-                    className={styles.hover}
                     onClick={(e) => categoryFilter(e.target.id)}
                 >
 
@@ -236,7 +238,6 @@ const FurnitureList = () => {
 
                 <NavLink
                     style={{ 'textDecoration': 'none' }}
-                    className={styles.hover}
                     onClick={(e) => categoryFilter(e.target.id)}
                 >
                     <img src={pryamiImg} id='Прямі дивани' alt="картинка" className={styles.modal__img} />
@@ -245,7 +246,6 @@ const FurnitureList = () => {
 
                 <NavLink
                     style={{ 'textDecoration': 'none' }}
-                    className={styles.hover}
                     onClick={(e) => categoryFilter(e.target.id)}>
                     <img src={dityachiImg} alt="картинка" className={styles.modal__img} id='Дитячі' />
                     <p className={styles.catalogName} id='Дитячі'>Дитячі Дивани</p>
@@ -253,7 +253,6 @@ const FurnitureList = () => {
 
                 <NavLink
                     style={{ 'textDecoration': 'none' }}
-                    className={styles.hover}
                     onClick={(e) => categoryFilter(e.target.id)}>
                     <img src={myakiLigkaImg} alt="картинка" className={styles.modal__img} id='Ліжка м`які' />
                     <p className={styles.catalogName} id='Ліжка м`які'>Ліжка м'які</p>
@@ -261,7 +260,6 @@ const FurnitureList = () => {
 
                 <NavLink
                     style={{ 'textDecoration': 'none' }}
-                    className={styles.hover}
                     onClick={(e) => categoryFilter(e.target.id)}>
                     <img src={woodenImg} alt="картинка" className={styles.modal__img} id='Ліжка дерев`яні' />
                     <p className={styles.catalogName} id='Ліжка дерев`яні'>Ліжка дерев'яні</p>
@@ -269,7 +267,6 @@ const FurnitureList = () => {
 
                 <NavLink
                     style={{ 'textDecoration': 'none', "margin-top": "15px" }}
-                    className={styles.hover}
                     onClick={(e) => categoryFilter(e.target.id)}>
                     <img src={kitchenKutImg} alt="картинка" className={styles.modal__img} id='Кухонні куточки' />
                     <p className={styles.catalogName} id='Кухонні куточки'>Кухонні куточки</p>
@@ -277,7 +274,6 @@ const FurnitureList = () => {
 
                 <NavLink
                     style={{ 'textDecoration': 'none', "margin-top": "15px" }}
-                    className={styles.hover}
                     onClick={(e) => categoryFilter(e.target.id)}>
                     <img src={matracImg} alt="картинка" className={styles.modal__img} id='Матраци' />
                     <p className={styles.catalogName} id='Матраци'>Матраци</p>
@@ -285,7 +281,6 @@ const FurnitureList = () => {
 
                 <NavLink
                     style={{ 'textDecoration': 'none', "margin-top": "15px" }}
-                    className={styles.hover}
                     onClick={(e) => categoryFilter(e.target.id)}>
                     <img src={shafaKupeImg} alt="картинка" className={styles.modal__img} id='Шафи-купе' />
                     <p className={styles.catalogName} id='Шафи-купе'>Шафи-купе</p>
@@ -293,7 +288,6 @@ const FurnitureList = () => {
 
                 <NavLink
                     style={{ 'textDecoration': 'none', "margin-top": "15px" }}
-                    className={styles.hover}
                     onClick={(e) => categoryFilter(e.target.id)}>
                     <img src={komodImg} alt="картинка" className={styles.modal__img} id='Комоди' />
                     <p className={styles.catalogName} id='Комоди'>Комоди</p>
@@ -301,7 +295,6 @@ const FurnitureList = () => {
 
                 <NavLink
                     style={{ 'textDecoration': 'none', "margin-top": "15px" }}
-                    className={styles.hover}
                     onClick={(e) => categoryFilter(e.target.id)}>
                     <img src={peredpokiyImg} alt="картинка" className={styles.modal__img} id='Передпокій' />
                     <p className={styles.catalogName} id='Передпокій' >Передпокій</p>
@@ -319,6 +312,7 @@ const FurnitureList = () => {
 
 
             <div className='flex-container'>
+
                 {items}
 
 

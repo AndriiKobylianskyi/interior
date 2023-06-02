@@ -43,3 +43,73 @@
 .dopStyleForDescription {
     width: 690px;
 }
+
+@media (max-width: 768px) {
+
+
+    .content {
+        width: 700px;
+    }
+
+    .header {
+        height: 220px;
+    }
+}
+
+@media (max-width: 700px) {
+
+
+    .content {
+        width: 640px;
+    }
+}
+
+@media (max-width: 640px) {
+
+
+    .content {
+        width: 570px;
+    }
+
+
+}
+
+@media (max-width: 576px) {
+
+
+    .content {
+        width: 500px;
+    }
+}
+
+@media (max-width: 500px) {
+    .content {
+        width: 420px;
+    }
+
+    .header {
+        height: 360px;
+    }
+
+
+}
+
+@media (max-width: 450px) {
+    .content {
+        width: 400px;
+    }
+
+
+
+
+}
+
+@media (max-width: 410px) {
+    .content {
+        width: 350px;
+    }
+
+
+
+
+}

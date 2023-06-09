@@ -44,6 +44,16 @@
     width: 690px;
 }
 
+
+
+@media (max-width: 1200px) {
+
+
+    .flexForItem {
+        margin: 0 10px;
+    }
+}
+
 @media (max-width: 768px) {
 
 

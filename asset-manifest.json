@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/interior/static/css/main.7d92d65a.css",
-    "main.js": "/interior/static/js/main.8f8fe8fb.js",
+    "main.css": "/interior/static/css/main.fe032eae.css",
+    "main.js": "/interior/static/js/main.e3265596.js",
     "static/media/shafaKupeTitle.jpg": "/interior/static/media/shafaKupeTitle.0b9dcb2475ceb9e2aed2.jpg",
     "static/media/kutoviDivanTitle.jpg": "/interior/static/media/kutoviDivanTitle.695a1e331dc276aa8b08.jpg",
     "static/media/dityachiDivanTitle.jpg": "/interior/static/media/dityachiDivanTitle.c5bbd8219fd749bcfc5c.jpg",
@@ -13,11 +13,11 @@
     "static/media/woodenLigkoTitle.jpg": "/interior/static/media/woodenLigkoTitle.c2c54ec1e0aeb49acede.jpg",
     "static/media/imageNotFound.png": "/interior/static/media/imageNotFound.298b98203c3825c61303.png",
     "index.html": "/interior/index.html",
-    "main.7d92d65a.css.map": "/interior/static/css/main.7d92d65a.css.map",
-    "main.8f8fe8fb.js.map": "/interior/static/js/main.8f8fe8fb.js.map"
+    "main.fe032eae.css.map": "/interior/static/css/main.fe032eae.css.map",
+    "main.e3265596.js.map": "/interior/static/js/main.e3265596.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d92d65a.css",
-    "static/js/main.8f8fe8fb.js"
+    "static/css/main.fe032eae.css",
+    "static/js/main.e3265596.js"
   ]
 }
